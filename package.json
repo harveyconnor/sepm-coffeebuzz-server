@@ -1,0 +1,25 @@
+{
+  "name": "sepm-coffeebuzz-server",
+  "version": "0.0.1",
+  "description": "Third year project for SEPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harveyconnor/sepm-coffeebuzz-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harveyconnor/sepm-coffeebuzz-server/issues"
+  },
+  "homepage": "https://github.com/harveyconnor/sepm-coffeebuzz-server#readme",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "apollo-server-express": "^2.4.8",
+    "express": "^4.16.4",
+    "graphql": "^14.2.1"
+  }
+}
