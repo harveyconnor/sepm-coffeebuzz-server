@@ -24,7 +24,8 @@
     "apollo-server-express": "^2.4.8",
     "express": "^4.16.4",
     "graphql": "^14.2.1",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
