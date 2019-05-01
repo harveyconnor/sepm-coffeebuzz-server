@@ -6,6 +6,17 @@ const typeDefs = gql`
   type Query {
     hello: String
   }
+  type User {
+    id: ID!
+    firstName: String!
+    email: String!
+  }
+
+  type Item {
+    id: String!
+    name: String!
+    description: String!
+  }
 `;
 
 // Provide resolver functions for your schema fields
